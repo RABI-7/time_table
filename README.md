@@ -90,11 +90,61 @@ Execute the program using runserver command.
     </tr>
     </table>
     <br>
+</table>
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+    <tr align="center">
+        <th>S. No.</th>
+        <th>Subject Code</th>
+        <th>Subject Name</th>
+    </tr>
+    <tr>
+        <td align="center">1.</td>
+        <td align="center">19AI414</td>
+        <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
+    </tr>
+    <tr>
+        <td align="center">2.</td>
+        <td align="center">19AI304</td>
+        <td>FUNDAMENTALS OF C PROGRAMMING</td>
+    </tr>
+    <tr>
+        <td align="center">3.</td>
+        <td align="center">19AI410</td>
+        <td>MACHINE LEARNING</td>
+    </tr>
+    <tr>
+        <td align="center">4.</td>
+        <td align="center">19AI302</td>
+        <td>ENGINEERING DESIGN AND MODELLING</td>
+    </tr>
+    <tr>
+        <td align="center">5.</td>
+        <td align="center">19CY205 </td>
+        <td>PRINCIPLES OF CHEMISTRY IN ENGINEERING</td>
+    </tr>
+    <tr>
+        <td align="center">6.</td>
+        <td align="center">19MA201</td>
+        <td>CALCULUS AND MATRIX ALGEBRA</td>
+    </tr>
+    <tr>
+        <td align="center">7.</td>
+        <td align="center">19CY801</td>
+        <td>ENVIRONMENTAL SCIENCES AND SUSTAINABILITY</td>
+    </tr>
+    <tr>
+        <td align="center">8.</td>
+        <td align="center">19EY709</td>
+        <td>REASONING ABILITY</td>
+    </tr>
+</table>
 </body>
 </html>
 ```
 # OUTPUT
-![Screenshot (68)](https://github.com/user-attachments/assets/404181ef-7d40-41c0-8142-87b10ed799bb)
+![Screenshot (69)](https://github.com/user-attachments/assets/a289acfc-e609-48e6-963e-f48155e6ddde)
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
